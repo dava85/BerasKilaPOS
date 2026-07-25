@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421473035059",
+    "project_id": "neotokopos85",
+    "storage_bucket": "neotokopos85.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421473035059:android:3e4e2c83a54611f3b15446",
+        "android_client_info": {
+          "package_name": "com.example.neotokopos85"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXsoGsAdTKomrGpXyabUHc8bPswWoS870"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
